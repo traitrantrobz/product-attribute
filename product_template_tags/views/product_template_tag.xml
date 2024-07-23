@@ -38,7 +38,7 @@
                         <group>
                             <field
                                 name="company_id"
-                                option="{no_create_edit: True}"
+                                options="{'no_create_edit': True}"
                                 groups="base.group_multi_company"
                             />
                         </group>

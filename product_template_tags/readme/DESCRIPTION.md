@@ -1,1 +1,1 @@
-This addon allows to add tags on products.
+This module allows add and create tags in the form view of products.

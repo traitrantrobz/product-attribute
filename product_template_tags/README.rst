@@ -28,7 +28,7 @@ Product Template Tags
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
-This addon allows to add tags on products.
+This module allows add and create tags in the form view of products.
 
 **Table of contents**
 
@@ -48,8 +48,8 @@ Usage
 
 To use this module, you need to:
 
-1. On the product view, you can add and create tags.
-2. Tags will be shown in the kanban view.
+1. On the product form view, you can add and create tags.
+2. Tags will be shown in the kanban view and list view.
 
 Bug Tracker
 ===========
@@ -82,6 +82,7 @@ Contributors
    -  Iván Todorovich <ivan.todorovich@gmail.com>
 
 -  David Montull Guasch <david.montull@bt-group.com>
+-  Tran Thanh Trai <traitt@trobz.com>
 
 Maintainers
 -----------
